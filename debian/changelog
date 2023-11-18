@@ -1,8 +1,18 @@
-soundtouch (2.3.1+ds1-deepin1) unstable; urgency=medium
+soundtouch (2.3.2+ds1-1) unstable; urgency=medium
 
-  * Rebuild
+  [ Andrea Pappacoda ]
+  * d/watch: moved to codeberg.org
 
- -- Deepin Packages Builder <packages@deepin.org>  Fri, 11 Nov 2022 18:05:24 +0800
+  [ Sam Q ]
+  * Replace watch
+
+  [ Dennis Braun ]
+  * New upstream version 2.3.2+ds1
+  * d/watch: Add dversionmangle=auto
+  * Bump Standards-Version to 4.6.1
+  * Change my email address to snd@debian.org
+
+ -- Dennis Braun <snd@debian.org>  Mon, 28 Nov 2022 23:03:12 +0100
 
 soundtouch (2.3.1+ds1-1) unstable; urgency=medium
 
